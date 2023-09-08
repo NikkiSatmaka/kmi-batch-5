@@ -9,4 +9,5 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
-  - xlrd
+  - xlrd  # xls - excel 2003
+  - openpyxl  # xlsx - excel baru
